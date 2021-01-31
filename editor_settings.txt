@@ -1,0 +1,6 @@
+{
+	"log_detailed_mode": true,
+	"detector_fps": 20,
+	"logic_fps": 5,
+	"render_fps": 20
+}

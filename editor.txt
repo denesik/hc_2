@@ -1,0 +1,10 @@
+{
+    "lang_id": -1,
+    "my_power": 100,
+    "rect_h": 770,
+    "rect_w": 870,
+    "rect_x": 2110,
+    "rect_y": 138,
+    "show_capture": 0,
+    "show_capture_detailed": 0
+}

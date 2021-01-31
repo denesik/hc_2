@@ -1,0 +1,5 @@
+{
+    "capcha_mode": 0,
+    "capcha_timeout": 5000,
+    "sound_name": "Buzzer"
+}

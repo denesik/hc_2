@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-12-02 06:25+0300\n"
+"PO-Revision-Date: 2021-01-12 17:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../../src/editor\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Hustle Castle Bot"
+msgstr "Hustle Castle Бот"
+
+msgid "auth"
+msgstr "Авторизация"
+
+msgid "settings"
+msgstr "Настройки"
+
+msgid "program"
+msgstr "Программа"
+
+msgid "log"
+msgstr "Лог"
+
+msgid "arena_algorithm"
+msgstr "Алгоритм"
+
+msgid "arena_standard"
+msgstr "Стандартный"
+
+msgid "arena_end_game"
+msgstr "Верхние"
+
+msgid "arena_first_lose"
+msgstr "Проигрыш"
+
+msgid "arena_event"
+msgstr "Нижние"
+
+msgid "arena_mode"
+msgstr "Режим"
+
+msgid "arena_ticket_0"
+msgstr "Яблоки"
+
+msgid "arena_ticket_1"
+msgstr "Билеты"
+
+msgid "arena_ticket_2"
+msgstr "Яблоки, билеты"
+
+msgid "arena_ticket_3"
+msgstr "Билеты, яблоки"
+
+msgid "arena_power_scale"
+msgstr "Множитель мощности"
+
+msgid "arena_power_scale_enemy"
+msgstr "Нападать на врагов с мощностью в диапазоне:"
+
+msgid "arena_stats"
+msgstr "Статистика"
+
+msgid "arena_stats_0"
+msgstr "Нет"
+
+msgid "arena_stats_1"
+msgstr "Краткая"
+
+msgid "arena_stats_2"
+msgstr "Подробная"
+
+msgid "arena_check_mail"
+msgstr "Проверить почту"
+
+msgid "arena_apple_buy"
+msgstr "Покупать яблоки"
+
+msgid "arena_ticket_buy"
+msgstr "Покупать билеты"
+
+msgid "success_count"
+msgstr "Успешные запуски:"
+
+msgid "success_off"
+msgstr "Количество запусков за 24 часа:"
+
+msgid "time"
+msgstr "Время выполнения:"
+
+msgid "authorization"
+msgstr "Авторизайия"
+
+msgid "email"
+msgstr "Емейл"
+
+msgid "enter_you_email"
+msgstr "Введите емейл"
+
+msgid "send_email"
+msgstr "Отправить"
+
+msgid "access_code"
+msgstr "Код доступа"
+
+msgid "enter_you_access_code"
+msgstr "Введите код доступа"
+
+msgid "enemy_power_scale_min"
+msgstr "Множитель нижней мощности"
+
+msgid "enemy_power_scale_max"
+msgstr "Множитель верхней мощности"
+
+msgid "enemy_power_scale_enemy"
+msgstr "Нападать на врагов с мощностью в диапазоне:"
+
+msgid "battle_relic"
+msgstr "Нажимать реликвию"
+
+msgid "ignore_warning_hp"
+msgstr "Игнорировать низкое здоровье"
+
+msgid "advertising_battle"
+msgstr "Смотреть рекламу при поражении"
+
+msgid "condition_apple"
+msgstr "Количество яблок:"
+
+msgid "condition_gold"
+msgstr "Количество золота:"
+
+msgid "condition_mana"
+msgstr "Количество маны:"
+
+msgid "arena"
+msgstr "Арена"
+
+msgid "resource"
+msgstr "Ресурсы"
+
+msgid "enemy"
+msgstr "Враги"
+
+msgid "power"
+msgstr "Мощность"
+
+msgid "buton_pause"
+msgstr "Пауза"
+
+msgid "start"
+msgstr "Запутить"
+
+msgid "stop"
+msgstr "Остановить"
+
+msgid "buton_continue"
+msgstr "Продолжить"
+
+msgid "emulator_settings"
+msgstr "Настройки"
+
+msgid "default"
+msgstr "По умолчанию"
+
+msgid "emulator_id"
+msgstr "Идентификатор эмулятора"
+
+msgid "emulator_name"
+msgstr "Название окна эмулятора"
+
+msgid "emulator_path"
+msgstr "Путь к эмулятору (Nox.exe)"
+
+msgid "fix"
+msgstr "Исправить"
+
+msgid "wrong_emulator_path"
+msgstr "Неправильный путь к эмулятору. Запустите эмулятор и нажмите \"Исправить\""
+
+msgid "correct_emulator_path"
+msgstr "Правильный путь к эмулятору"
+
+msgid "capcha_sound"
+msgstr "Звук капчи"
+
+msgid "capcha_volume"
+msgstr "Громкость"
+
+msgid "play"
+msgstr "Проиграть"
+
+msgid "auto_run"
+msgstr "Автоматический запуск программы"
+
+msgid "capture_mode"
+msgstr "Фоновый режим захвата изображения"
+
+msgid "show_capture"
+msgstr "Показывать захваченное изображение"
+
+msgid "show_detailed"
+msgstr "Подробный режим"
+
+msgid "current_page"
+msgstr "Текущая страница:"
+
+msgid "screenshot"
+msgstr "Скриншот"
+
+msgid "lang"
+msgstr "Язык"
+
+msgid "none"
+msgstr "Отсутствует"

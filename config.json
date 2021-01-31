@@ -1,0 +1,52 @@
+{
+    "program": [
+        {
+            "arena_algorithm": 0,
+            "arena_buy_apple": 0,
+            "arena_buy_ticket": 0,
+            "arena_check_mail": 1,
+            "arena_mode": 2,
+            "arena_stats": 0,
+            "condition_apple_enable": 0,
+            "condition_apple_max": 100,
+            "condition_apple_min": 0,
+            "condition_gold_enable": 0,
+            "condition_gold_max": 100,
+            "condition_gold_min": 0,
+            "condition_mana_enable": 0,
+            "condition_mana_max": 100,
+            "condition_mana_min": 0,
+            "condition_success_enable": 0,
+            "condition_success_max": 1,
+            "condition_success_val": 1,
+            "condition_time_enable": 0,
+            "condition_time_max": 86399,
+            "condition_time_min": 0,
+            "repeat": 1,
+            "run_count": 0,
+            "arena_power_scale": 1.0,
+            "program_type": "arena",
+            "success_runs": "1612117646"
+        },
+        {
+            "condition_apple_enable": 0,
+            "condition_apple_max": 100,
+            "condition_apple_min": 0,
+            "condition_gold_enable": 0,
+            "condition_gold_max": 100,
+            "condition_gold_min": 0,
+            "condition_mana_enable": 0,
+            "condition_mana_max": 100,
+            "condition_mana_min": 0,
+            "condition_success_enable": 0,
+            "condition_success_max": 1,
+            "condition_success_val": 0,
+            "condition_time_enable": 0,
+            "condition_time_max": 86399,
+            "condition_time_min": 0,
+            "repeat": 1,
+            "run_count": 0,
+            "program_type": "resource"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "background_mode": 1,
+    "emulator_id": 0,
+    "program_auto_run": 0,
+    "sound_volume": 100,
+    "emulator_name": "NoxPlayer",
+    "emulator_path": "F:\\Nox\\bin\\Nox.exe"
+}
